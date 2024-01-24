@@ -1,0 +1,6 @@
+Existen reglas de configuracion, que se pueden aplicar a TypeScript. Estas reglas se pueden encontrar en el 
+archivo de configuración de TypeScript.
+
+Algunas de estas reglas son:
+- Include: Aplica para incluir archivos de TypeScript para la hora de compilarlos
+- Exclude: Aplica para excluir archivos de TypeScript a la hora de compilarlos

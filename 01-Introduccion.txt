@@ -1,0 +1,10 @@
+¿Qué es TypeScript?
+TypeScript es un superconjunto de JavaScript que añade tipado estático opcional y funciones avanzadas a JavaScript.
+TypeScript es un lenguaje de programación fuertemente tipado que se basa en JavaScript y le brinda mejores 
+herramientas a cualquier escala.
+
+¿Como funciona TypeScript?
+Funciona muy similar a JavaScript, con algunas diferencias:
+- Es un lenguaje de tipado estático opcional
+- Es un lenguaje de funciones avanzadas
+- Programacion de alto nivel
