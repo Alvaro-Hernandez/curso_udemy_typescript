@@ -6,7 +6,7 @@ function saludo(frase: string): string {
   return `${frase}`;
 }
 
-// console.log(saludo("Hola Mileydi"));
+// console.log(saludo("Hola Alvaro"));
 
 // Funciones expresadas
 const adios = function (despedida: string): string {
@@ -15,7 +15,7 @@ const adios = function (despedida: string): string {
 
 // console.log(adios("Hasta pronto"));
 
-// Funcion flecha
+// Funcion flecha "=>"
 const salto = (posY: number, posX: number): number => {
   return posY + posX;
 };
